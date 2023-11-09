@@ -7,6 +7,10 @@
   </a>
 </div>
 
+### Education:
+* Master of Science in Applied Data Analytics at Boston University
+* Bachelor of Technology in Computer Science and Engineering at Sasrtra University, India
+
 <p align="center">📫 How to reach me: anantha11k@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
