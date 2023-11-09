@@ -1,5 +1,4 @@
-<h1 align="center">Hey there! 👋</h1>
-<h3 align="center">I'm Anantha Padmanaban Krishna Kumar.</h3>
+<h1 align="center">Hey there! 👋, I'm Anantha Padmanaban Krishna Kumar.</h1>
 
 <div align="center">
   <a href="https://github.com/AnanthaPadmanaban-KrishnaKumar">
