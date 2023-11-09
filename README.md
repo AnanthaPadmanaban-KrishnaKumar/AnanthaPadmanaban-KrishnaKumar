@@ -94,11 +94,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ananthapadmanaban-krishnakumar&show_icons=true" alt="Anantha Padmanaban Krishna Kumar's GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthapadmanaban-krishnakumar" alt="Anantha's streak" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ananthapadmanaban-krishnakumar&theme=react-dark" alt="Contribution Graph" />
-</p>
