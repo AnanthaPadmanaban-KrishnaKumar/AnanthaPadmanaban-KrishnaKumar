@@ -26,9 +26,11 @@
   <a href="https://linkedin.com/in/anantha-padmanaban-krishna-kumar/" target="blank">
     <img align="center" alt="Anantha Padmanaban | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:anantha11k@gmail.com">
     <img align="center" alt="Anantha Padmanaban | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/pawan_1100_/">
     <img align="center" alt="Anantha Padmanaban | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a>
