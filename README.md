@@ -20,21 +20,17 @@
 
 <h2 align="center">📫 How to reach me</h2>
 
-<p align="center">
-  📧 Email: <a href="mailto:anantha11k@gmail.com">anantha11k@gmail.com</a>
-</p>
-
 <h2 align="center">🔗 Connect with me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/anantha-padmanaban-krishna-kumar/" target="blank">
-    <img align="center" src="assets/linkedin.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" alt="Anantha Padmanaban | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="mailto:apadmanaban@gmail.com">
-    <img align="center" src="assets/gmail.svg" alt="Gmail" height="30" width="40" />
+  <a href="mailto:anantha11k@gmail.com">
+    <img align="center" alt="Anantha Padmanaban | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
   <a href="https://www.instagram.com/pawan_1100_/">
-    <img align="center" src="assets/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" alt="Anantha Padmanaban | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a>
 </p>
 
