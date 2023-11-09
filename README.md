@@ -18,7 +18,6 @@
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/DN7AK6FR844A)
 - [Big Data](https://www.coursera.org/account/accomplishments/specialization/NQ5LRRTVKADH)
 
-<h2 align="center">📫 How to reach me</h2>
 
 <h2 align="center">🔗 Connect with me</h2>
 
