@@ -1,6 +1,6 @@
 <h1 align="center">Hey Guys 👋, I'm Anantha Padmanaban Krishna Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - 📫 How to reach me **anantha11k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
