@@ -8,16 +8,15 @@
 </div>
 
 ### Education:
-* Master of Science in Applied Data Analytics at Boston University
-* Bachelor of Technology in Computer Science and Engineering at Sasrtra University, India
+* 🎓 Master of Science in Applied Data Analytics at Boston University
+* 🎓 Bachelor of Technology in Computer Science and Engineering at Sastra University, India
 
 ### Licenses & certifications:
 
-* Machine Learning - [See credential](https://www.coursera.org/account/accomplishments/certificate/CAHB8ZZ4ETU6) 
-* IBM Data Science - [See credential](https://www.coursera.org/account/accomplishments/specialization/certificate/9U989P7SHPYD)
-* Google Data Analytics - [See credential](https://www.coursera.org/account/accomplishments/specialization/certificate/DN7AK6FR844A)
-* Big Data -  [See credential](https://www.coursera.org/account/accomplishments/specialization/NQ5LRRTVKADH)
-
+* 📜 [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/CAHB8ZZ4ETU6)
+* 📜 [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/9U989P7SHPYD)
+* 📜 [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/DN7AK6FR844A)
+* 📜 [Big Data](https://www.coursera.org/account/accomplishments/specialization/NQ5LRRTVKADH)
 
 <p align="center">📫 How to reach me: anantha11k@gmail.com</p>
 
@@ -83,5 +82,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthapadmanaban-krishnakumar&" alt="ananthapadmanaban-krishnakumar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthapadmanaban-krishnakumar" alt="ananthapadmanaban-krishnakumar" />
 </p>
