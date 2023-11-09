@@ -1,93 +1,76 @@
-<h1 align="center">Hey there! 👋, I'm Anantha Padmanaban Krishna Kumar.</h1>
+<h1 align="center">Hi there, I'm Anantha Padmanaban Krishna Kumar 👋</h1>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/AnanthaPadmanaban-KrishnaKumar">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+    <img align="center" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake game" />
   </a>
-</div>
+</p>
 
-### Education:
-* 🎓 Master of Science in Applied Data Analytics at Boston University
-* 🎓 Bachelor of Technology in Computer Science and Engineering at Sastra University, India
+<h2 align="center">🎓 Education</h2>
 
-### Licenses & certifications:
+- Master of Science in Applied Data Analytics, Boston University
+- Bachelor of Technology in Computer Science and Engineering, Sastra University, India
 
-* 📜 [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/CAHB8ZZ4ETU6)
-* 📜 [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/9U989P7SHPYD)
-* 📜 [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/DN7AK6FR844A)
-* 📜 [Big Data](https://www.coursera.org/account/accomplishments/specialization/NQ5LRRTVKADH)
+<h2 align="center">📜 Licenses & Certifications</h2>
 
-<p align="center">📫 How to reach me: anantha11k@gmail.com</p>
+- [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/CAHB8ZZ4ETU6) 
+- [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/9U989P7SHPYD)
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/DN7AK6FR844A)
+- [Big Data](https://www.coursera.org/account/accomplishments/specialization/NQ5LRRTVKADH)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/anantha-padmanaban-krishna-kumar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantha padmanaban krishna kumar" height="30" width="40" />
+<h2 align="center">📫 How to reach me</h2>
+
+<p align="center">
+  📧 Email: <a href="mailto:anantha11k@gmail.com">anantha11k@gmail.com</a>
+</p>
+
+<h2 align="center">🔗 Connect with me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/anantha-padmanaban-krishna-kumar/" target="blank">
+    <img align="center" src="assets/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:apadmanaban@gmail.com">
-    <img align="center" alt="Anantha Padmanaban | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" src="assets/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/pawan_1100_/" target="_blank">
-    <img align="center" alt="Anantha Padmanaban | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/pawan_1100_/">
+    <img align="center" src="assets/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <!-- Add more icons and links for your preferred languages and tools here -->
+<h2 align="center">💻 Languages and Tools</h2>
+
+<p align="center">
+  <!-- Your languages and tools here -->
+  <img src="assets/aws.svg" alt="AWS" width="40" height="40"/>
+  <img src="assets/c.svg" alt="C" width="40" height="40"/>
+  <img src="assets/cpp.svg" alt="C++" width="40" height="40"/>
+  <img src="assets/gcp.svg" alt="GCP" width="40" height="40"/>
+  <img src="assets/git.svg" alt="Git" width="40" height="40"/>
+  <img src="assets/linux.svg" alt="Linux" width="40" height="40"/>
+  <img src="assets/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="assets/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="assets/opencv.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="assets/pandas.svg" alt="Pandas" width="40" height="40"/>
+  <img src="assets/python.svg" alt="Python" width="40" height="40"/>
+  <img src="assets/pytorch.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="assets/scikit_learn.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="assets/seaborn.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="assets/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthapadmanaban-krishnakumar&show_icons=true&locale=en" alt="ananthapadmanaban-krishnakumar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthapadmanaban-krishnakumar&layout=compact" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthapadmanaban-krishnakumar" alt="ananthapadmanaban-krishnakumar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananthapadmanaban-krishnakumar&show_icons=true" alt="Anantha Padmanaban Krishna Kumar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthapadmanaban-krishnakumar" alt="Anantha's streak" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ananthapadmanaban-krishnakumar&theme=react-dark" alt="Contribution Graph" />
 </p>
